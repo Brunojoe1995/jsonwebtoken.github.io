@@ -1,3 +1,4 @@
+//*Follow these configurations as mentioned in this page.
 **NEW:** get the [JWT Handbook for free](https://auth0.com/resources/ebooks/jwt-handbook) and learn JWTs in depth!
 
 ## What is JSON Web Token?
@@ -33,6 +34,8 @@ For example:
 
 ```
 {
+Set.These.Values
+  "Aurthor":"brunojoe1994@gmail.com"
   "alg": "HS256",
   "typ": "JWT"
 }
